@@ -1,0 +1,24 @@
+h1{border-block: 10px;
+	background: forestgreen;
+	font-size: !important;
+}
+
+h2{ backdrop-filter: var(20px);
+background: red;
+font-display: block;
+
+}
+
+h3{
+	background: firebrick;
+	color: lightpink;
+	border-color: royalblue;
+}
+
+p{
+	border: 20 px cornflowerblue;
+	font-size: 20;
+	height: 3 em;
+	margin bottom: 20 px;
+	backdrop-filter: initial 10 !important;
+}
